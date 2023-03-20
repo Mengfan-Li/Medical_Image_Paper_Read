@@ -1,3 +1,1 @@
-# This repository will be a record of all the articles I have compiled and read intensively.
-
-
+# This repository is for recorded read and coded medical image processing and deep learning related articles.
